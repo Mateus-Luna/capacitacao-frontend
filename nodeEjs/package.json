@@ -1,0 +1,20 @@
+{
+  "name": "capacitacao-frontend",
+  "version": "1.0.0",
+  "description": "Trilha da minha capacitação em desenvolvimento frontend na rocketseat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateus-Luna/capacitacao-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateus-Luna/capacitacao-frontend/issues"
+  },
+  "homepage": "https://github.com/Mateus-Luna/capacitacao-frontend#readme"
+}

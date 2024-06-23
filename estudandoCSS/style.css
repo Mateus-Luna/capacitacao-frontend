@@ -1,6 +1,14 @@
+figure {
+ margin-top: auto;
+ margin-bottom: auto;
+}
+
 h1{
     color: blue;
 }
 h2{
     color: brown;
+}
+a {
+    color: purple;
 }
